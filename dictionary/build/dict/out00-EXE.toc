@@ -1,0 +1,9 @@
+('F:\\Python\\Project\\build\\dict\\dict.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1524722371L)
